@@ -23,13 +23,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </p>
 <br>
 
@@ -43,7 +44,7 @@
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/vijay-m-7a1676191/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vijay-m-7a1676191/" target="_blank"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vijay.murugeasan99@gmail.com"><img alt="Free Stuff" title="Free gifts for you" src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  
 </p>
