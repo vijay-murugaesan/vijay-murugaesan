@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay</h1>
-<h3 align="center">An React developer</h3>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="45px">
+<!-- <h3 align="center">An React developer</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-murugeasan&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-murugeasan" /> </p>
 
