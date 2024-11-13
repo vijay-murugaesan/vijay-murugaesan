@@ -35,9 +35,7 @@
 <br>
 
 ## 🔥 Streak stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vijay-murugeasan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vijay-murugeasan)](https://git.io/streak-stats)
    <br> 
    
 ## 🙋 Connect with me
