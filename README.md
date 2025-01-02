@@ -52,7 +52,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vijay-murugaesan&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
    <br> 
+   
+## 🔥 Top language
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-murugaesan&layout=pie)](https://github.com/vijay-murugaesan/github-readme-stats)
 
 ## 🔥 Github stats
 
