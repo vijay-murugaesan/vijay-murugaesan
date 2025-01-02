@@ -54,8 +54,7 @@
    <br> 
    
 ## 🔥 Top language
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-murugaesan&layout=pie)](https://github.com/vijay-murugaesan/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-murugaesan&layout=compact)
 
 ## 🔥 Github stats
 
