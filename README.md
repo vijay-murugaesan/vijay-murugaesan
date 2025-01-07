@@ -1,4 +1,4 @@
-<div align="center">
+
 <h1 align="center">Hi there, I'm Vijay </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="45px"> </h1>
 
 <!-- Typing SVG - https://github.com/Aishanipach/readme-typing-svg -->
@@ -107,5 +107,3 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, hit me up on Linkedin or any other social, I'd love that! </b> 😊</em>
 
-   
-</div>
